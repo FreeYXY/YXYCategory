@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.1.0)
+  - YXYCategory (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - Masonry
+  - YXYCategory (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  YXYCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  YXYCategory: 4336998915303eba889fbe016404feb42e35f237
+
+PODFILE CHECKSUM: 8c3188187fbde74cc31d62d955f549c347d74a54
+
+COCOAPODS: 1.6.0.beta.2
